@@ -32,3 +32,9 @@ Below are the detailed steps involved in building the solution for the case stud
 13. Include the Deal Support Request as a Related List to the Opportunity view.
 14. Include the column Risk flag in the Opportunity Related List of Account View.
 15. Create a tab for Deal Support Request so that Sales users can use to manually create Deal Support Request without tagging Opportunity.
+
+Solution available in 
+
+URL: login.salesforce.com
+
+Credentials: sfisher@abclabs.com \ Abc@test1.com 
